@@ -1,18 +1,53 @@
-# social_media_app
 
-Social Media App Flutter
+# Basic Social Media App Flutter
 
-## Getting Started
+Basic Social Media App (Flutter)
 
-This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+🔐 Authentication System
+User Signup
+User Login
+Secure Authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+👤 User Profile
+User Profile View
+Edit Profile Information
+Profile Picture Upload
+Bio & Personal Details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📝 Post Management
+Create New Post
+Edit Existing Post
+Delete Post
+Image Upload Support
+Like & Comment System
 
-https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png
+📰 News Feed
+Latest Posts Feed
+Real-time Feed Update
+User Interaction System
+
+🎬 Reels Section
+Short Video/Reels Upload
+Watch Reels Feed
+Like & Share Reels
+
+🤝 Friend System
+Send Friend Request
+Confirm/Reject Request
+Friend List Management
+
+🛠️ Technology Stack
+Flutter
+Dart
+Laravel API
+MySQL
+REST API
+
+## Tech Stack
+
+**Client:** Flutter, Dart
+
+**Server:** Laravel API, MySQL,REST API
+
